@@ -1,6 +1,6 @@
 {
   "name": "@fastpix/data-shakaplayer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS SDK designed for monitoring and analyzing video playback metrics using Shaka Player",
   "main": "dist/index.js",
   "files": [
@@ -26,6 +26,6 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
-    "@fastpix/data-core": "^1.0.0"
+    "@fastpix/data-core": "^1.0.1"
   }
 }
